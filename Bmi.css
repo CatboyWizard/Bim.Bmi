@@ -1,0 +1,33 @@
+#body{
+    display: flex;
+    background-color: blanchedalmond;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-color: black;
+    background-image: url(https://media.discordapp.net/attachments/666323067777318943/917745926376923146/d67f4a10b9ec5f678747f703141cadf5.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h2{
+    color: whitesmoke;
+}
+
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .button1 {background-color: lightskyblue;}
+
+  #header{
+    color: aliceblue;
+  }
+  
